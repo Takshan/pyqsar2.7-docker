@@ -1,6 +1,6 @@
 #  conda  create  -n  pyq2  python=2.7.18
 notebook
-scikit-learn==0.18.1
+scikit-learn==0.24.2
 scipy==0.18.1
 matplotlib==2.0.2
 ipywidgets==6.0.0
