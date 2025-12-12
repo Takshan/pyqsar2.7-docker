@@ -1,4 +1,4 @@
-FROM ubuntu:23.04
+FROM ubuntu:lunar-20231128
 ENV DEBIAN_FRONTEND=noninteractive
 
 RUN  apt-get update \
